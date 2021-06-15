@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -O3 -fmax-errors=1 -Wall -Wno-unused-function CMakeFiles/test_copy.dir/test/test_copy.cpp.o -o test_copy  libchia_plotter.a libblake3.a libfse.a -lpthread 

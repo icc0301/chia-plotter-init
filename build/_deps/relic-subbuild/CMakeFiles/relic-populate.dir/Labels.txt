@@ -1,0 +1,14 @@
+# Target labels
+ relic-populate
+# Source files and their labels
+/root/chia-plotter/build/_deps/relic-subbuild/CMakeFiles/relic-populate
+/root/chia-plotter/build/_deps/relic-subbuild/CMakeFiles/relic-populate.rule
+/root/chia-plotter/build/_deps/relic-subbuild/CMakeFiles/relic-populate-complete.rule
+/root/chia-plotter/build/_deps/relic-subbuild/relic-populate-prefix/src/relic-populate-stamp/relic-populate-install.rule
+/root/chia-plotter/build/_deps/relic-subbuild/relic-populate-prefix/src/relic-populate-stamp/relic-populate-mkdir.rule
+/root/chia-plotter/build/_deps/relic-subbuild/relic-populate-prefix/src/relic-populate-stamp/relic-populate-download.rule
+/root/chia-plotter/build/_deps/relic-subbuild/relic-populate-prefix/src/relic-populate-stamp/relic-populate-update.rule
+/root/chia-plotter/build/_deps/relic-subbuild/relic-populate-prefix/src/relic-populate-stamp/relic-populate-patch.rule
+/root/chia-plotter/build/_deps/relic-subbuild/relic-populate-prefix/src/relic-populate-stamp/relic-populate-configure.rule
+/root/chia-plotter/build/_deps/relic-subbuild/relic-populate-prefix/src/relic-populate-stamp/relic-populate-build.rule
+/root/chia-plotter/build/_deps/relic-subbuild/relic-populate-prefix/src/relic-populate-stamp/relic-populate-test.rule

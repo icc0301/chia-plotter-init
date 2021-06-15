@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -O3 -fmax-errors=1 -Wall -Wno-unused-function CMakeFiles/chia_plot.dir/src/chia_plot.cpp.o -o chia_plot  libchia_plotter.a lib/bls-signatures/src/libbls.a -lsodium libblake3.a libfse.a -lpthread libbls.a 

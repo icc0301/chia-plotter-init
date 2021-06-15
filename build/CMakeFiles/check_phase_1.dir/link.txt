@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -O3 -fmax-errors=1 -Wall -Wno-unused-function CMakeFiles/check_phase_1.dir/test/check_phase_1.cpp.o -o check_phase_1  libchia_plotter.a libblake3.a libfse.a -lpthread 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libchia_plotter.a CMakeFiles/chia_plotter.dir/lib/chacha8.c.o CMakeFiles/chia_plotter.dir/src/settings.cpp.o
+/usr/bin/ranlib libchia_plotter.a

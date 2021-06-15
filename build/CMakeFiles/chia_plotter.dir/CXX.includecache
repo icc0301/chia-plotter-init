@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/chia/settings.h
+cstdint
+-
+cstddef
+-
+
+/root/chia-plotter/src/settings.cpp
+chia/settings.h
+-
+

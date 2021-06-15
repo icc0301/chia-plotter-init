@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/root/chia-plotter/build/_deps/relic-subbuild/CMakeFiles/relic-populate"
+		},
+		{
+			"file" : "/root/chia-plotter/build/_deps/relic-subbuild/CMakeFiles/relic-populate.rule"
+		},
+		{
+			"file" : "/root/chia-plotter/build/_deps/relic-subbuild/CMakeFiles/relic-populate-complete.rule"
+		},
+		{
+			"file" : "/root/chia-plotter/build/_deps/relic-subbuild/relic-populate-prefix/src/relic-populate-stamp/relic-populate-install.rule"
+		},
+		{
+			"file" : "/root/chia-plotter/build/_deps/relic-subbuild/relic-populate-prefix/src/relic-populate-stamp/relic-populate-mkdir.rule"
+		},
+		{
+			"file" : "/root/chia-plotter/build/_deps/relic-subbuild/relic-populate-prefix/src/relic-populate-stamp/relic-populate-download.rule"
+		},
+		{
+			"file" : "/root/chia-plotter/build/_deps/relic-subbuild/relic-populate-prefix/src/relic-populate-stamp/relic-populate-update.rule"
+		},
+		{
+			"file" : "/root/chia-plotter/build/_deps/relic-subbuild/relic-populate-prefix/src/relic-populate-stamp/relic-populate-patch.rule"
+		},
+		{
+			"file" : "/root/chia-plotter/build/_deps/relic-subbuild/relic-populate-prefix/src/relic-populate-stamp/relic-populate-configure.rule"
+		},
+		{
+			"file" : "/root/chia-plotter/build/_deps/relic-subbuild/relic-populate-prefix/src/relic-populate-stamp/relic-populate-build.rule"
+		},
+		{
+			"file" : "/root/chia-plotter/build/_deps/relic-subbuild/relic-populate-prefix/src/relic-populate-stamp/relic-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"relic-populate"
+		],
+		"name" : "relic-populate"
+	}
+}

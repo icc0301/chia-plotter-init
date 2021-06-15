@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/chacha8.h
+stdint.h
+-
+
+/root/chia-plotter/lib/chacha8.c
+chacha8.h
+/root/chia-plotter/lib/chacha8.h
+

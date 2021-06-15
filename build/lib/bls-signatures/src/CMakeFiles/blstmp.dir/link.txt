@@ -1,0 +1,2 @@
+/usr/bin/ar qc libblstmp.a CMakeFiles/blstmp.dir/privatekey.cpp.o CMakeFiles/blstmp.dir/bls.cpp.o CMakeFiles/blstmp.dir/elements.cpp.o CMakeFiles/blstmp.dir/schemes.cpp.o
+/usr/bin/ranlib libblstmp.a

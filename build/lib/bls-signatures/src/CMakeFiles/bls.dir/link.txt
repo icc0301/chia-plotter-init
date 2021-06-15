@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbls.a CMakeFiles/bls.dir/privatekey.cpp.o
+/usr/bin/ranlib libbls.a
